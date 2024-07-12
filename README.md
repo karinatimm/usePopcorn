@@ -16,7 +16,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 
 ### Additional Highlights
 
-- **Responsive Design**: The chat is designed to be responsive and work seamlessly across different devices.
+- **Responsive Design**: This app is designed to be responsive and work seamlessly across different devices.
 
 ### Deployment
 
