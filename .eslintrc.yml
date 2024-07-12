@@ -3,7 +3,7 @@ env:
   es2021: true
 
 extends:
-  - airbnb-base
+  - airbnb
   - plugin:react/recommended
   - plugin:react-hooks/recommended
 
@@ -35,11 +35,7 @@ rules:
   testing-library/no-debug: 0
   react/jsx-filename-extension: [1, { "extensions": [".js", ".jsx"] }]
   functional/no-return-void: 0
-  no-shadow: 0
-  max-len: [2, { "code": 110 }]
-  no-alert: 0
+  import/no-extraneous-dependencies: "off"
+  function-paren-newline: "off"
   consistent-return: 0
-
-settings:
-  react:
-    version: "detect"
+  no-shadow: 0
