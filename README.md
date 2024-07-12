@@ -21,7 +21,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 ### Deployment
 
 This project has been deployed on Netlify and is accessible at the following URL:
-[Hexlet Slack Chat on Render](https://slack-chat-ulm3.onrender.com/)
+**[![Netlify Status](https://api.netlify.com/api/v1/badges/14635502-241e-4778-ac3a-0e8664b73e60/deploy-status)](https://usepopcorn-kar.netlify.app)**
 
 ## System Requirements to run usePopcorn locally:
 
